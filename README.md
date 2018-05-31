@@ -42,6 +42,3 @@ Starting a server                        :  $python server.py
   is running.
   
 Note: Python along with RPyC module needs to be installed on all the machines which run these programs.
-
-
-          ****The programs have been tested on CSCloud and file transfer was done between two VMs successfully.****
